@@ -1,5 +1,5 @@
 # EDUNET-WEEK1
-**********************************This is a Project Repository regarding the Project titled***
+                            This is a Project Repository regarding the Project titled
 
 
                        "CROP AND FERTILISER RECOMMENDATION SYSTEM USING MACHINE LEARING  "
