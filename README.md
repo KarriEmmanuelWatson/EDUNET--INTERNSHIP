@@ -1,4 +1,4 @@
-# EDUNET-WEEK1
+# EDUNET--INTERSHIP
                             This is a Project Repository regarding the Project titled
 
 
